@@ -19,13 +19,13 @@ Sift the dry ingredients together. Add crisco and cut into mixture with pastry b
 ### Filling
 Use Apricot or Prune canned filling — the Solo brand is good for baking — or make your own. You can also be creative here with chocolate chips, Nutella, jams, or anything else you like.
 
-#### Apricot
+#### Apricot Filling
 * Dried apricots (1 cup)
 * Orange juice (1/4 cup)
 
 Cook over low heat for 10 minutes until soft. Puree to a soft paste.
 
-#### Prune
+#### Prune Filling
 * Pitted prunes (1 cup)
 * Sugar (1 tablespoon)
 * Water (1/4 cup)
