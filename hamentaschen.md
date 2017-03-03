@@ -1,13 +1,13 @@
 This is my Grandma Faith's recipe for hamantaschen. It yields 48 hamantaschen (but you can cut the dough recipe in half to make 24). Here is the recipe in her own handwriting, [which is transcribed below](#dough).
 
 ![Hamentaschen recipe 1](/img/hamentaschen-1.jpg)
-![Hamentaschen recipe 2](/img/hamentaschen-1.jpg)
+![Hamentaschen recipe 2](/img/hamentaschen-2.jpg)
 
 <h3 id="dough">Dough</h3>
 #### Ingredients
 * Flour, sifted (3 cups)
 * Baking powder (2 teaspoons)
-* Salt (1/4 cup)
+* Salt (1/4 teaspoon)
 * Sugar, sifted (1 cup)
 * Crisco (1 cup)
 * Eggs (2)
