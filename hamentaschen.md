@@ -1,5 +1,7 @@
-This is my Grandma Faith's recipe for hamantaschen.
-It yields 48 hamantaschen (but you can cut the dough recipe in half to make 24).  
+This is my Grandma Faith's recipe for hamantaschen. It yields 48 hamantaschen (but you can cut the dough recipe in half to make 24). Here is the recipe in her own handwriting, which is transcribed below.
+
+![Hamentaschen recipe 1](/img/hamentaschen-1.jpg)
+![Hamentaschen recipe 2](/img/hamentaschen-1.jpg)
 
 ### Dough
 #### Ingredients
