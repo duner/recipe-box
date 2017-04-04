@@ -4,6 +4,7 @@ This is my Grandma Faith's recipe for hamantaschen. It yields 48 hamantaschen (b
 ![Hamentaschen recipe 2](/img/hamentaschen-2.jpg)
 
 <h3 id="dough">Dough</h3>
+
 #### Ingredients
 * Flour, sifted (3 cups)
 * Baking powder (2 teaspoons)
